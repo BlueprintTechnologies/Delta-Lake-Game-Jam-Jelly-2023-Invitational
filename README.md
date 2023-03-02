@@ -1,3 +1,5 @@
+![Lounging by the delta lake](delta-lake-game-jam-2023.png)
+
 # Delta Lake Game Jam 2023
 It's game jam time again. We have a new theme and including not one but two open source game engines you can use to create your killer game in 48 hours.
 
