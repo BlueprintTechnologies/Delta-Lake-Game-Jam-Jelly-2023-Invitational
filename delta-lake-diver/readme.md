@@ -1,1 +1,1 @@
-![Lounging by the delta lake](delta-lake-diver-thumbnail.png)
+![Delta Lake Diver game](delta-lake-diver-thumbnail.png)
